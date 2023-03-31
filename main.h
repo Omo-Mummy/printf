@@ -3,6 +3,10 @@
 #include <stdarg.h>
 #include <stdio.h>
 
+/* SIZES */
+#define S_LONG 2
+#define S_SHORT 1
+
 /**
  * struct print - structure for printing various types
  * @t: type to print
